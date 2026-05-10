@@ -9,7 +9,7 @@
       https://kunanonsurasorn.github.io/basic_short_stories_website/
       
 # ภาพประกอบโปรเจกต์
-      1. เบื้องหลังของเว็บไซต์
+      1. ไฟล์แสดงการพัฒนาเว็บไซต์โดยใช้ HTML
 ![BSSW01.jpg](https://github.com/kunanonsurasorn/basic_short_stories_website/blob/main/BSSW01.jpg)
 
       2. หน้าตาของเว็บไซต์
