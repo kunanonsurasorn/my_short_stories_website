@@ -21,3 +21,5 @@
 
       3. หน้าตาของเว็บไซต์
 ![BSSW02.jpg](https://github.com/kunanonsurasorn/basic_short_stories_website/blob/main/BSSW02.jpg)
+![BSSW04.jpg](https://github.com/kunanonsurasorn/basic_short_stories_website/blob/main/BSSW04.jpg)
+![BSSW05.jpg](https://github.com/kunanonsurasorn/basic_short_stories_website/blob/main/BSSW05.jpg)
