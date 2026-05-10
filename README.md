@@ -9,7 +9,8 @@
       https://kunanonsurasorn.github.io/basic_short_stories_website/
       
 # ภาพประกอบโปรเจกต์
+      1. เบื้องหลังของเว็บไซต์
 ![BSSW01.jpg](https://github.com/kunanonsurasorn/basic_short_stories_website/blob/main/BSSW01.jpg)
-หน้าตาของเว็บไซต์
+
+      2. หน้าตาของเว็บไซต์
 ![BSSW02.jpg](https://github.com/kunanonsurasorn/basic_short_stories_website/blob/main/BSSW02.jpg)
-เบื้องหลังของเว็บไซต์
