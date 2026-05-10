@@ -1,4 +1,4 @@
-# The Recommended Short Stories Website Project
+# My Short Stories Website Project
 
       โปรเจกต์การพัฒนาเว็บไซต์สำหรับแนะนำผลงานเรื่องสั้นของ mami_rianerva โดยนำเอาความรู้ด้าน HTML และ CSS มาผสมรวมกับทักษะการเล่าเรื่องและการเขียนเรื่องสั้นในนามปากกา mami_rianerva เพื่อพัฒนาทักษะการเขียนเว็บไซต์ 
 
