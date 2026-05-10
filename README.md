@@ -9,7 +9,7 @@
 
 # เว็บไซต์
 
-      https://kunanonsurasorn.github.io/basic_short_stories_website/
+      https://kunanonsurasorn.github.io/my_short_stories_website/
       
 # ภาพประกอบโปรเจกต์
 
